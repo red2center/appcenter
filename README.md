@@ -36,7 +36,7 @@ powershell -Command "$url = 'https://raw.githubusercontent.com/red2center/appcen
 |Website          |[HelloRed.pages.dev](https://hellored.pages.dev) adresine erişmenizi sağlar.            |
 |Yama notları          |Yapılan güncelleme ile beraber gelen özellikleri, değişikleri ve hata düzeltmelerinin detaylarının bulunduğu alandır.|
 |Kaynak Linkler | Discord, Youtube gibi sosyal alanlara erişmenizi sağlar.|
-
+|Yönet | Uygulamaların kendine özel yönetim sayfasını açar. Bu sayfada uygulamanın ayarları ve durumları görüntülenebilir, Çalıştır ve Durdur gibi eylemlerin gerçekleştirilmesi sağlanabilir.|
 
 
 ## Programlar
