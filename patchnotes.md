@@ -8,4 +8,4 @@ Genel düzenlemeler ve yapılandırmalar yapıldı.
 - Uygulama yönetim sayfalarında bulunan hatalar giderildi.
 - Link yönlendirme için yönlendirici yapılandırıldı.
 
-> **`Güncellmeler Sekmesi`** Bakıma alındı. Geçici olarak Devre Dışı bırakıldı.
+> **`Güncellmeler Sekmesi`** ve **`Ara Sekmesi`** Bakıma alındı. Geçici olarak Devre Dışı bırakıldı.
