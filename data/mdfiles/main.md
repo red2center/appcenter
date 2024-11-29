@@ -4,13 +4,13 @@ Aşağıda, projeyle ilgili çeşitli konularda daha fazla bilgi edinebileceğin
 
 ## Genel Dokümantasyon
 
-- [App Manager](./genel-bilgi.md)  
+- [App Manager](https://github.com/red2center/appcenter/blob/main/data/mdfiles/mds/helloredappmanager.md)  
   Bu dosya, projenin genel yapısı ve amaçları hakkında temel bilgiler içerir.
 
-- [HelloRedService](./kurulum-ve-yapilandirma.md)  
+- [HelloRedService](https://github.com/red2center/appcenter/blob/main/data/mdfiles/mds/helloredservice.md)  
   Bu rehber, projenin sisteminize nasıl kurulacağı ve yapılandırılacağı konusunda ayrıntılı talimatlar sunar.
 
-- [AutoAccept](./kurulum-ve-yapilandirma.md)  
+- [AutoAccept](https://github.com/red2center/appcenter/blob/main/data/mdfiles/mds/LeagueAutoAccept.md)  
   Bu rehber, projenin sisteminize nasıl kurulacağı ve yapılandırılacağı konusunda ayrıntılı talimatlar sunar.
 
 
