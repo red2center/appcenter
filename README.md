@@ -35,5 +35,17 @@ Buu hata **[`.NET 8.0.11 Desktop Runtime`](https://dotnet.microsoft.com/en-us/do
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.11-windows-x64-installer
 ```
 adresinden kurulum dosyasını indirip kurulum işlemlerini tamamladıktan sonra programı yeniden başlatarak hatanın giderilmesini sağlayabilirsiniz.
+
+> .NET 8.0.11 Desktop Runtime, Microsoft'un .NET platformunun bir parçasıdır ve .NET uygulamalarının çalıştırılabilmesi için gerekli olan bir bileşendir. Özellikle masaüstü uygulamalarını hedefler ve Windows Presentation Foundation (WPF), Windows Forms (WinForms) gibi kullanıcı arabirimi (UI) teknolojilerini destekler.
+
 ## WebView2 Runtime
 
+![WebView2](https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/other/6.png)
+![WebView2](https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/other/7.png)
+Buu hata **[`WebView2 Runtime`](https://go.microsoft.com/fwlink/p/?LinkId=2124703)** bilgisayarınızda mevct olmadığı için alınır.
+```
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.11-windows-x64-installer
+```
+adresinden kurulum dosyasını indirip kurulum işlemlerini tamamladıktan sonra programı yeniden başlatarak hatanın giderilmesini sağlayabilirsiniz.
+
+> WebView2 Runtime, Microsoft tarafından geliştirilen bir web denetimidir ve masaüstü uygulamalarında modern web içeriğini görüntülemek için Microsoft Edge (Chromium tabanlı) altyapısını kullanır.
