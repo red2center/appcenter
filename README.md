@@ -1,4 +1,7 @@
 # App Manager
+HelloRed App Manager (HelloRed App Center) birçok uygulamayı merkezi olarak indirmenizi sağlar.
+Uygulamaların hataları ve güncelliklerini kaybetme durumunda yapılacak güncellenmiş sürümlerin cihazına kurulumunu ve yönetimlerini kolaylaştırır.
+
 ## Gereksinimler
 
 HelloRed App Manager sorunsuz çalışması için aşağıda bulunan araçlar gereklidir.
@@ -23,6 +26,7 @@ powershell -Command "$url = 'https://raw.githubusercontent.com/red2center/appcen
 
 - Masaüstünüze gelen **`HelloRed App Center`** kısayolunu çalıştırın.
 
+# Kullanım
 
 # Hatalar
 
