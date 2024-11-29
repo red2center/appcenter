@@ -1,4 +1,4 @@
-# App Manager
+# HelloRed App Manager
 HelloRed App Manager (HelloRed App Center) birçok uygulamayı merkezi olarak indirmenizi sağlar.
 Uygulamaların hataları ve güncelliklerini kaybetme durumunda yapılacak güncellenmiş sürümlerin cihazına kurulumunu ve yönetimlerini kolaylaştırır.
 
