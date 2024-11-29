@@ -1,6 +1,4 @@
 
-markdown
-Kodu kopyala
 # Otomatik Maç Kabul ve Arama Uygulaması
 
 Bu uygulama, League of Legends istemcisi ile doğrudan etkileşim kurarak oyun durumunu kontrol eder, otomatik olarak maç kabul eder ve karşılaşma arar. Kullanıcıya kolay bir grafiksel arayüz (GUI) sunarak oyun deneyimini otomatikleştiren bir araçtır.
