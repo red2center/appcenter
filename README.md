@@ -28,5 +28,12 @@ powershell -Command "$url = 'https://raw.githubusercontent.com/red2center/appcen
 
 ## .NET Runtime
 
+![net](https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/other/1.png)
+
+Buu hata **[`.NET 8.0.11 Desktop Runtime`](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.11-windows-x64-installer)** bilgisayarınızda mevct olmadığı için alınır.**`Download it now`** butonuna basarak veya
+```
+https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.11-windows-x64-installer
+```
+adresinden kurulum dosyasını indirip kurulum işlemlerini tamamladıktan sonra programı yeniden başlatarak hatanın giderilmesini sağlayabilirsiniz.
 ## WebView2 Runtime
 
