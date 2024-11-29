@@ -27,7 +27,22 @@ powershell -Command "$url = 'https://raw.githubusercontent.com/red2center/appcen
 - Masaüstünüze gelen **`HelloRed App Center`** kısayolunu çalıştırın.
 
 # Kullanım
+![net](https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/other/9.png)
 
+- Programlar sekmesi: Bilgisayarınızda yüklü olan ve olmayan programları görüntüleme, indirme ve yönetme işlemlerinin yapıldığı alandır.
+
+- Website : [HelloRed.pages.dev](https://hellored.pages.dev) adresine erişmenizi sağlar.
+
+- Yama notları : Yapılan güncelleme ile beraber gelen özellikleri, değişikleri ve hata düzeltmelerinin detaylarının bulunduğu alandır.
+
+- Kaynak Linkler : Discord
+## Programlar
+
+Bu alanda yüklü olmayan uygulamaların güncel sürümlerinin kurulumunu sağlayabilirsiniz.
+
+Yüklü olan uygulamaların başlatılmasını sağlayabilirsiniz. Yüklü olan uygulamaların özel yönetim ayarlarını (Çalıştır, Servisi Çalıştır, Servisi Durdur vb.) Yönet butonunu kullanarak erişebilir ve değişiklik yapabilirsiniz.
+
+> **Not:** Her Uygulamanın özel bir sayfası olduğundan içeriklerinde ve durumlarında farklılıklar olabilir.
 # Hatalar
 
 ## .NET Runtime
