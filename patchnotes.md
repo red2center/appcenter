@@ -1,5 +1,10 @@
 # Sürüm : 10004
-- Arayüz Geliştirildi.
+Genel düzenlemeler ve yapılandırmalar yapıldı.
+## Uygulama
 - **`Hello HWID`** Uygulaması eklendi.
+## İstemci
+- Arayüz Geliştirildi.
 - Görüntüleme modülü kontrolcüleri geliştirildi.
-  
+- Uygulama yönetim sayfalarında bulunan hatalar giderildi.
+- Link yönlendirme için yönlendirici yapılandırıldı.
+
