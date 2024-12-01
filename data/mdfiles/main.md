@@ -14,5 +14,5 @@ Aşağıda, projeyle ilgili çeşitli konularda daha fazla bilgi edinebileceğin
 
 
 - [Hello HWID](https://github.com/red2center/appcenter/blob/main/data/mdfiles/mds/helloHWID.md)
-- 
+  
 ---
