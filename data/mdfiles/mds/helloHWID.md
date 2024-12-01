@@ -1,4 +1,4 @@
-# Windows Lisanslama Aracı: Açıklama ve İşleyiş
+# Hello HWID : Windows Lisanslama Aracı
 
 ## **Amaç**
 Bu araç, Windows işletim sisteminin lisanslama işlemini kolaylaştırmak için geliştirilmiştir. Araç, sistemdeki donanım kimliğini (HWID) kullanarak Windows lisansının etkinleştirilmesini sağlar. Windows lisanslama işlemi, genellikle Microsoft'un aktivasyon sunucuları üzerinden gerçekleştirilir ve bu araç, ilgili süreci otomatikleştirir.
