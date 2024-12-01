@@ -91,6 +91,14 @@ HelloRedService çalışırken, belirli durumlarda bağlantı sorunları yaşana
 
 ### 5. **Log Dosyalarını İnceleyin**
    - HelloRedService, çalışırken bir hata meydana geldiyse, hizmetin log dosyalarını inceleyerek sorunun nedenini öğrenebilirsiniz. Log dosyasının varsayılan konumunu kontrol edin veya yapılandırma dosyalarından ayarları doğrulayın.
+### 6. **WinDivert64.sys**
+   - **`WinDivert64.sys`** dosyasının silemiyorsanız veya program klasörünü silemiyorsanız (`bu dosya başka bir programda açık olduğundan bu eylem gerçekleştirilemiyor.`). WinDivert64.sys kernelde çalıştığı içindir. 
+
+```
+sc stop WinDivert
+```
+Bu komutu CMD (komut istemcisi) üzerinde çalıştırıp ardından dosyayı silebilirsiniz.
+
 
 ---
 
