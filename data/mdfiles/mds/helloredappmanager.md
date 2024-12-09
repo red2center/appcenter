@@ -64,7 +64,7 @@ adresinden kurulum dosyasını indirip kurulum işlemlerini tamamladıktan sonra
 
 ![WebView2](https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/other/6.png)
 ![WebView2](https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/other/7.png)
-Buu hata **[`WebView2 Runtime`](https://go.microsoft.com/fwlink/p/?LinkId=2124703)** bilgisayarınızda mevct olmadığı için alınır.
+Bu hata **[`WebView2 Runtime`](https://go.microsoft.com/fwlink/p/?LinkId=2124703)** bilgisayarınızda mevct olmadığı için alınır.
 ```
 https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-8.0.11-windows-x64-installer
 ```
