@@ -1,0 +1,47 @@
+[
+    {
+        "id":2100,
+        "name": "HelloRedService",
+        "url": "https://github.com/red2center/Filerepo/raw/refs/heads/main/HRService.zip",
+        "logo":"https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/images/HelloRedServiceLogo.png",
+        "description":"Discord'a erişm problemlerine çözüm sağlar.",
+        "docs":"https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/data/mdfiles/mds/helloredservice.md",
+        "type": "service",
+        "actions":[{"install":"install.cmd"},{"remove":"remove.cmd"}]
+    },
+    {
+        "id":2101,
+        "name": "League Auto Accept",
+        "url": "https://github.com/red2center/Filerepo/raw/refs/heads/main/AutoAccept.zip",
+        "logo":"https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/images/AutoAcceptLogo.png",
+        "description":"League Of Legends için otomatik maç arama ve maç kabul etmenizi sağlar.",
+        "docs":"https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/data/mdfiles/mds/LeagueAutoAccept.md",
+        "type": "normal",
+        "actions":[{"run":"AutoAccept.exe"}]
+    },
+    {
+        "id":2102,
+        "name": "Hello HWID",
+        "url": "https://github.com/red2center/appcenter/raw/refs/heads/main/apps/HelloRedActivation.zip",
+        "logo":"https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/images/key.png",
+        "description":"Windows cihazların HWID ile lisans doğrulamasını sağlar.",
+        "docs":"https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/data/mdfiles/mds/helloHWID.md",
+        "type": "normal",
+        "actions":[{"run":"HelloRed HWID Activator.exe"},{"remove_key":"HelloRed Key Remove.exe"},{"check_key":"HelloRed License Control.exe"}]
+       
+    },
+    {
+        "id":2103,
+        "name": "Hello 2FA",
+        "url": "https://raw.githubusercontent.com/red2center/Hello-2FA/refs/heads/main/H2FA.zip",
+        "logo":"https://cdn-icons-png.flaticon.com/512/9135/9135970.png",
+        "description":"Şifrelerinizi ve 2 Faktörlü Doğrulma kodlarını barındırabileceğiniz ve yönetebileceğiniz bir uygulama",
+        "docs":"https://raw.githubusercontent.com/red2center/Hello-2FA/refs/heads/main/README.md",
+        "type": "normal",
+       "actions":[{"run":"Hello2FA.exe"}]
+        
+    }
+
+    
+  ]
+  
