@@ -8,7 +8,7 @@
         "docs":"https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/data/mdfiles/mds/helloredservice.md",
         "type": "service",
         "actions":[{"install":"install.cmd"},{"remove":"remove.cmd"}],
-        "icon": "icons/2100.png"
+        "icon": "icons/2100.jpg"
     },
     {
         "id":2101,
