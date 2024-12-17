@@ -38,8 +38,8 @@
         "description":"Şifrelerinizi ve 2 Faktörlü Doğrulma kodlarını barındırabileceğiniz ve yönetebileceğiniz bir uygulama",
         "docs":"https://raw.githubusercontent.com/red2center/Hello-2FA/refs/heads/main/README.md",
         "type": "normal",
-       "actions":[{"run":"Hello2FA.exe"}]
-        
+       "actions":[{"run":"Hello2FA.exe"}],
+        "icon": "icons/app2.png"
     }
 
     
