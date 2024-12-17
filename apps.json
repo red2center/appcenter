@@ -7,7 +7,8 @@
         "description":"Discord'a erişm problemlerine çözüm sağlar.",
         "docs":"https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/data/mdfiles/mds/helloredservice.md",
         "type": "service",
-        "actions":[{"install":"install.cmd"},{"remove":"remove.cmd"}]
+        "actions":[{"install":"install.cmd"},{"remove":"remove.cmd"}],
+        "icon": "icons/2100.png"
     },
     {
         "id":2101,
@@ -17,7 +18,8 @@
         "description":"League Of Legends için otomatik maç arama ve maç kabul etmenizi sağlar.",
         "docs":"https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/data/mdfiles/mds/LeagueAutoAccept.md",
         "type": "normal",
-        "actions":[{"run":"AutoAccept.exe"}]
+        "actions":[{"run":"AutoAccept.exe"}],
+        "icon": "icons/2101.png"
     },
     {
         "id":2102,
@@ -27,7 +29,8 @@
         "description":"Windows cihazların HWID ile lisans doğrulamasını sağlar.",
         "docs":"https://raw.githubusercontent.com/red2center/appcenter/refs/heads/main/data/mdfiles/mds/helloHWID.md",
         "type": "normal",
-        "actions":[{"run":"HelloRed HWID Activator.exe"},{"remove_key":"HelloRed Key Remove.exe"},{"check_key":"HelloRed License Control.exe"}]
+        "actions":[{"run":"HelloRed HWID Activator.exe"},{"remove_key":"HelloRed Key Remove.exe"},{"check_key":"HelloRed License Control.exe"}],
+        "icon": "icons/2102.png"
        
     },
     {
@@ -39,7 +42,7 @@
         "docs":"https://raw.githubusercontent.com/red2center/Hello-2FA/refs/heads/main/README.md",
         "type": "normal",
        "actions":[{"run":"Hello2FA.exe"}],
-        "icon": "icons/app2.png"
+        "icon": "icons/2103.png"
     }
 
     
