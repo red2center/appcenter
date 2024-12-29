@@ -9,6 +9,7 @@
         "type": "service",
         "actions":[{"install":"install.cmd"},{"remove":"remove.cmd"}],
         "icon": "icons/2100.jpg"
+        "color": "#FF0000"
     },
     {
         "id":2101,
@@ -20,6 +21,7 @@
         "type": "normal",
         "actions":[{"run":"AutoAccept.exe"}],
         "icon": "icons/2101.png"
+        "color": "#31A8FF"
     },
     {
         "id":2102,
